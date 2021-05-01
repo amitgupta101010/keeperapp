@@ -56,15 +56,16 @@ footer p {
 }
 
 .note button {
-  position: relative;
-  float: right;
-  margin-right: 10px;
-  color: #f5ba13;
-  border: none;
-  width: 36px;
-  height: 36px;
-  cursor: pointer;
-  outline: none;
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    color: #f5ba13;
+    border: none;
+    /* width: 36px; */
+    height: 36px;
+    cursor: pointer;
+    outline: none;
+    padding: 5px;
 }
 
 form {
